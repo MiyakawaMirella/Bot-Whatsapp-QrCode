@@ -38,3 +38,30 @@ for i in range(len(df_python)):
 
     if i == 81:
         sleep()
+    
+     if i in range(82, 122):
+        mensagem(df_python, caminhoQrCode)
+
+    if i == 122:
+        sleep()
+        
+     if i in range(123, 163):
+        mensagem(df_python, caminhoQrCode)
+
+    if i == 163:
+        sleep()
+        
+     if i in range(164, 204):
+        mensagem(df_python, caminhoQrCode)
+
+    if i == 204:
+        sleep()
+   
+     if i in range(205, 245):
+        mensagem(df_python, caminhoQrCode)
+
+    if i == 245:
+        sleep()
+       
+     if i in range(246, 260):
+        mensagem(df_python, caminhoQrCode)
